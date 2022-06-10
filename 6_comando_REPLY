@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "Hola, indique su nombre por favor:"
+read 
+nombre=$REPLY
+echo "Bienvenido $nombre, un gusto tenerte por aquí!"

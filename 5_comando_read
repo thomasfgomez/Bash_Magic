@@ -1,0 +1,7 @@
+#!/bin/bash
+
+nombre=""
+
+echo "Bienvenido a este programa!"
+read -p "Ingrese su nombre:" nombre
+echo "Hola $nombre, es un placer tenerte por aquí :)"
